@@ -122,17 +122,16 @@ graph LR
     style A fill:#f3e5f5
 ```
 
+## 贡献计划 / Contribution plan
 
+我准备先改进贡献指南里容易让新参与者卡住的操作步骤。比如，克隆的是 `hutb`，下一步却进入 `.github`，读者很难判断自己是否操作错了。相关问题见 [#211](https://github.com/OpenHUTB/.github/issues/211)。
 
+1. 让克隆目录、进入目录和分支名保持一致，补充查看修改和暂存内容的命令。
+2. 检查修改后的文档页面，确认代码、图片和流程图能正常阅读，再提交修改。
+3. 跟进审核意见，逐项修改并说明结果。之后继续检查新手指南中的命令和链接，发现具体问题再提出修改。
 
+I plan to start with contribution steps that can confuse new contributors. For example, cloning `hutb` and then entering `.github` makes it hard to tell whether something went wrong. See [#211](https://github.com/OpenHUTB/.github/issues/211).
 
-
-
-
-
-
-
-
-
-
-
+1. Keep the clone directory, working directory, and branch name consistent, and add commands for checking working and staged changes.
+2. Check the updated documentation page, including code blocks, images, and the flowchart, before submitting the change.
+3. Follow up on review comments, address each point, and explain the result. Then check commands and links in the beginner guides and propose changes when a specific problem is found.
